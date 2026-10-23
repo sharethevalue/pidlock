@@ -1,1 +1,52 @@
-# pidlock
+# Pidlock
+
+Pidlock is the user-owned, consent-first data vault for **Share the Value**, an open protocol by Akbar Lalani.
+
+> Status: early draft, v0.2. Everything here is open for discussion.
+
+## What is Share the Value?
+
+Share the Value is an open specification anyone can implement. It describes how consent, matching, attribution and payouts work between a person, a platform and a merchant.
+
+Personal data helps platforms and merchants reach the right people and make sales. The people whose data makes that possible rarely see any of the value, and they often have little say over who sees what. Share the Value proposes a simple, open way to change that, working alongside the platforms people already use rather than against them.
+
+## What is Pidlock?
+
+Pidlock is the person's vault. PID means personally identifiable data. Pidlock keeps it locked, and shares it only with consent.
+
+- Your data stays on your own device.
+- You can switch access on or off for each company at any time.
+- Businesses never receive your raw data.
+
+## How the protocol works
+
+- **Coexists with big tech.** The platform keeps the majority share; the person receives a fraction.
+- **Cash first.** Payouts come as cash first, with credits as an option later.
+- **Verified sales only.** Payouts happen only on verified sales that are not returned.
+- **Measured, not assumed.** Lift is measured against a holdout group.
+- **Nothing breaks.** Existing ads continue as normal for people who do not opt in.
+
+## Who benefits
+
+These are what we expect. A pilot is how we will find out.
+
+- **Platforms** keep the majority share, offer a consent-based option people may prefer, and coexist with existing ads.
+- **Merchants** pay only for verified, unreturned sales, with lift measured against a holdout group.
+- **People** choose who sees what, keep data on their device, and receive a fair share when their data helps.
+
+## The pilot
+
+The first step is a pilot with one challenger platform. The aim is to test, with real numbers and a holdout group, whether this works well for platforms, merchants and people alike. Results will be shared openly.
+
+## Links
+
+- Website: https://sharethevalue.org (coming soon)
+- White paper: [docs/paper.md](docs/paper.md)
+- How to help: [CONTRIBUTING.md](CONTRIBUTING.md)
+
+## License
+
+- Code: [Apache License 2.0](LICENSE)
+- Docs, paper and specification: [CC BY 4.0](LICENSE-docs)
+
+Share the Value, by Akbar Lalani.
