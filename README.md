@@ -69,6 +69,18 @@ Akbar Lalani proposed the Share the Value protocol and stewards it. He sets the 
 
 Open an issue on this repository to ask a question, suggest a change, or say what you would like to work on. See [CONTRIBUTING.md](CONTRIBUTING.md) for more.
 
+## Related work
+
+Share the Value builds on ideas and standards that already exist. Each piece has precedent; the combination is what we are proposing.
+
+- **Intent and user-side terms:** [ProjectVRM and The Intention Economy](https://cyber.harvard.edu/projectvrm/Main_Page) (Doc Searls), [Customer Commons](https://customercommons.org/), [IEEE 7012 machine-readable personal privacy terms](https://standards.ieee.org/ieee/7012/7192/), [Kantara Consent Receipt](https://kantarainitiative.org/download/7902/).
+- **Personal data stores:** [Solid](https://solidproject.org/), [MyData](https://mydata.org/), [digi.me](https://digi.me/).
+- **Paying people for attention or data:** [Brave Rewards](https://brave.com/brave-rewards/), data unions such as [Swash](https://swashapp.io/) and [Streamr](https://streamr.network/), and the earlier [Datacoup](https://www.technologyreview.com/2014/09/08/171469/datacoup-wants-to-buy-your-credit-card-and-facebook-data/).
+- **Economics:** [Should We Treat Data as Labor?](https://www.aeaweb.org/articles?id=10.1257/pandp.20181003) and [A Blueprint for a Better Digital Society](https://hbr.org/2018/09/a-blueprint-for-a-better-digital-society).
+- **Agent commerce and authorization:** [Agent Payments Protocol (AP2)](https://ap2-protocol.org/), [Agentic Commerce Protocol (ACP)](https://www.agenticcommerce.dev/), [Visa Intelligent Commerce](https://corporate.visa.com/en/products/intelligent-commerce.html), [GNAP (RFC 9635)](https://datatracker.ietf.org/doc/rfc9635/).
+
+What we think is new: an AI agent shares only consented intent from a vault on the user's device, and the user's share comes from the platform's commission on a verified sale, paid after the return window. We have not found another project that ties a user payout to a completed purchase. If you know of one, please open an issue.
+
 ## Links
 
 - Website: https://sharethevalue.org (coming soon)
