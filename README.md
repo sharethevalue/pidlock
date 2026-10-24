@@ -20,6 +20,8 @@ Pidlock is the person's vault. PID means personally identifiable data. Pidlock k
 
 ## How the protocol works
 
+![Share the Value protocol flow](https://sharethevalue.org/images/protocol-flow.gif)
+
 - **Coexists with big tech.** The platform keeps the majority share; the person receives a fraction.
 - **Cash first.** Payouts come as cash first, with credits as an option later.
 - **Verified sales only.** Payouts happen only on verified sales that are not returned.
@@ -37,6 +39,35 @@ These are what we expect. A pilot is how we will find out.
 ## The pilot
 
 The first step is a pilot with one challenger platform. The aim is to test, with real numbers and a holdout group, whether this works well for platforms, merchants and people alike. Results will be shared openly.
+
+## Status and roadmap
+
+This is a proposal at an early stage. Nothing here is built yet. We plan to move in three stages.
+
+**Stage 1: Feedback and early supporters.** Share the specification and the article, gather feedback, and find people who think the idea is worth testing.
+
+**Stage 2: Contributors and design partners.** Find two or three serious contributors or design partners to shape the first build.
+
+**Stage 3: A working demo.** Build a demo that a platform or merchant could try for themselves.
+
+Starter build items:
+
+- A reference implementation of scoped, revocable keys for the Pidlock vault.
+- A demo of an AI agent sending a user's intent to a mock platform.
+- A test suite and conformance checks so others can verify their own implementations.
+
+## Who is behind this
+
+Akbar Lalani proposed the Share the Value protocol and stewards it. He sets the direction and the principles. He is not a hands-on engineer, and he builds with AI assistance, openly. Contributors are welcome, and the project will rely on people with skills he does not have.
+
+## How to help
+
+- **Developers:** help build the starter items above, starting with scoped keys, the agent demo, or the test suite.
+- **Designers:** help make consent, key revocation and payouts clear and simple for people.
+- **Payments people:** help shape how payments, returns and payouts to people should work in practice.
+- **Policy people:** help review how the protocol fits with the EU Digital Markets Act and GDPR. Any alignment is subject to legal review.
+
+Open an issue on this repository to ask a question, suggest a change, or say what you would like to work on. See [CONTRIBUTING.md](CONTRIBUTING.md) for more.
 
 ## Links
 
